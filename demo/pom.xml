@@ -89,14 +89,7 @@
 
 	<!-- Mule Dependencies -->
 	<dependencies>
-		<!-- Xml configuration -->
-		
-		<dependency>
-    <groupId>org.mule.modules</groupId>
-    <artifactId>mule-module-apikit</artifactId>
-    <version>1.2</version>
-</dependency>
-		
+		<!-- Xml configuration -->		
 		<dependency>
 		    <groupId>org.mule</groupId>
 		    <artifactId>mule-core</artifactId>
