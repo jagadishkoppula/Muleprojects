@@ -218,6 +218,11 @@
             <version>${munit.version}</version>
             <scope>test</scope>
         </dependency>
+	<dependency>
+    <groupId>org.mule.modules</groupId>
+    <artifactId>mule-module-apikit</artifactId>
+    <version>3.8.3</version>
+</dependency>
     </dependencies>
 
 	<repositories>
