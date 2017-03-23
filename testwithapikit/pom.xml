@@ -124,12 +124,7 @@
 	<dependencies>
 		<!-- Xml configuration -->
 		
-		<dependency>
-    <groupId>org.mule.modules</groupId>
-    <artifactId>mule-module-apikit</artifactId>
-    <version>1.2</version>
-</dependency>
-		
+	
 		<dependency>
 		    <groupId>org.mule</groupId>
 		    <artifactId>mule-core</artifactId>
